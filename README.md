@@ -1,6 +1,6 @@
 # 🤖 AI or Not - Discord Bot
 
-**AI or Not** is a fun and interactive Discord bot where users guess whether an image is **AI-generated** or **human-made**.
+**AI or Not** is a fun and interactive Discord bot where users guess whether an image is **AI-generated** or **Real**.
 
 ---
 ## [Add to Discord](https://discord.com/oauth2/authorize?client_id=1392412300425826385)
@@ -69,3 +69,4 @@ Made to test your AI detection skills in a fun way!
 
 * 🔗 [GitHub](https://github.com/SajagIN/ai-or-not-bot)
 * 🚼 [Slack](https://hackclub.slack.com/team/U08PGAD2KC1)
+* 🤖 [Add bot to Discord](https://discord.com/oauth2/authorize?client_id=1392412300425826385)
